@@ -4,6 +4,7 @@ export interface CharacterProps {
     status: string;
     type: string;
     gender: string;
+    species: string;
     origin: Origin;
     location: Location;
     image: string;
