@@ -1,0 +1,40 @@
+:host {
+  display: block;
+}
+
+.container {
+  padding: 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 2px solid;
+}
+
+img {
+  max-width: 150px;
+}
+
+.header-cell {
+  width: 150px;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.body-cell {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.column-primary {
+  background-color: #F46A4C;
+}
+
+.column-secondary {
+  background-color: #717CA4;
+}
